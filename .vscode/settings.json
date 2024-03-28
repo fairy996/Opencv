@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "highgui.hpp": "c",
+        "opencv.hpp": "c",
+        "core.hpp": "c",
+        "iostream": "c",
+        "imgproc.hpp": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
