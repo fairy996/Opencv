@@ -4,7 +4,14 @@
         "opencv.hpp": "c",
         "core.hpp": "c",
         "iostream": "c",
-        "imgproc.hpp": "c"
+        "imgproc.hpp": "c",
+        "deque": "c",
+        "list": "c",
+        "string": "c",
+        "vector": "c",
+        "map": "c",
+        "queue": "c",
+        "set": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
